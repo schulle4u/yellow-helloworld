@@ -2,7 +2,7 @@ Example plugin 0.7.4
 ===============
 Sample documentation file for new plugins. Just fill out missing data, and delete unwanted headings. This repository also contains a simple shortcut plugin. 
 
-<p align="center"><img src="my-screenshot.png?raw=true" alt="Screenshot"></p>
+<p align="center"><img src="example-screenshot.png?raw=true" alt="Screenshot"></p>
 
 ## How do I install this?
 
