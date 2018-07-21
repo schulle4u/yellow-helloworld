@@ -43,9 +43,7 @@ The following files can be configured:
 
 Showing latest plugin pages:
 
-    [blogchanges /blog/]
-    [blogchanges /blog/ 5]
-    [blogchanges /blog/ 20]
+    [plugin /blog/]
 
 ## Developer
 
