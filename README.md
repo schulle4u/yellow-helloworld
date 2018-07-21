@@ -7,8 +7,8 @@ Sample documentation file for new plugins. Just fill out missing data, and delet
 ## How do I install this?
 
 1. [Download and install Datenstrom Yellow](https://github.com/datenstrom/yellow/).
-2. [Download plugin](https://github.com/). If you are using Safari, right click and select 'Download file as'.
-3. Copy `plugin.zip` into your `system/plugins` folder.
+2. [Download plugin](https://github.com/schulle4u/yellow-plugin-template/archive/master.zip). If you are using Safari, right click and select 'Download file as'.
+3. Copy `master.zip` into your `system/plugins` folder.
 
 To uninstall delete the [plugin files](update.ini).
 
@@ -16,9 +16,9 @@ To uninstall delete the [plugin files](update.ini).
 
 Create a `[plugin]` shortcut. 
 
-The plugin is available on your website as `http://website/blog/`. 
+The plugin is available on your website as `http://website/plugin/`. 
 
-## How to show plugin information?
+## How to show my plugin information?
 
 You can use shortcuts to show information about the plugin:
 
