@@ -1,4 +1,4 @@
-Example plugin 0.7.4
+Example plugin 0.7.5
 ====================
 Embed example text. 
 
