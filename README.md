@@ -1,10 +1,12 @@
 Example plugin 0.7.4
-===============
-Sample documentation file for new plugins. Just fill out missing data, and delete unwanted headings. This repository also contains a simple shortcut plugin. 
+====================
+Embed example text. 
+
+**TODO:** *This is an example plugin. It provides a `README.md` with documentation, an `example.php` with simple code and an `update.ini` with installation information. Start the documentation with the name of your plugin, followed by one line of description. Put more text into the sections below. Add a screenshot whenever possible.* 
 
 <p align="center"><img src="example-screenshot.png?raw=true" alt="Screenshot"></p>
 
-## How do I install this?
+## How to install plugin
 
 1. [Download and install Datenstrom Yellow](https://github.com/datenstrom/yellow/).
 2. [Download plugin](https://github.com/schulle4u/yellow-plugin-example/archive/master.zip). If you are using Safari, right click and select 'Download file as'.
@@ -12,37 +14,40 @@ Sample documentation file for new plugins. Just fill out missing data, and delet
 
 To uninstall delete the [plugin files](update.ini).
 
-## How to use example plugin?
+**TODO:** *Change the second link to your own repository.*
 
-Create a `[example]` shortcut. 
+## How to embed XYZ
 
-## How to show example plugin information?
+Create an `[example]` shortcut. 
 
-You can use shortcuts to show information about the plugin:
+The following arguments are available, all but the first argument are optional:
 
-`SHORTCUT ARGUMENT` description   
+`something` = example argument, unused in this plugin    
+`style` = example style, unused in this plugin
 
-The following arguments are available:
+**TODO:** *Change the heading to match your plugin. Describe what the user can do with your plugin. Most of the time you can describe everything in one section. However if a plugin has lot of functionality you can also break it up into multiple sections. Mention third party libraries and web services that you use.*
 
-`LOCATION` = page location   
-
-## How to configure example plugin?
+## How to configure XYZ
 
 The following settings can be configured in file `system/config/config.ini`:
 
-`ExampleLocation` = example location  
+`ExampleSomething` = example configuration, unused in this plugin  
+`ExampleStyle` = example style, unused in this plugin  
 
-The following files can be configured:
-
-`system/config/page-new-example.txt` = content file for new plugin page  
-`system/themes/snippets/content-example.php` = source code for plugin page  
+**TODO:** *Change the heading to match your plugin. Show how this plugin can be configured.*
 
 ## Example
 
-Showing latest example pages:
+Embedding an example text:
 
-    [example /blog/]
+    [example]
+    [example abc]
+    [example abc 123]
+
+**TODO:** *Show how this plugin can be used. Give examples that can be copy/pasted.*
 
 ## Developer
 
-Datenstrom. [Get support](https://developers.datenstrom.se/help/support).
+Example Name.
+
+**TODO:** *Add your name. Give credits to other people whenever possible.*
