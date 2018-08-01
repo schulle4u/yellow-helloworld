@@ -34,7 +34,7 @@ The following settings can be configured in file `system/config/config.ini`:
 `ExampleSomething` = example configuration, unused in this plugin  
 `ExampleStyle` = example style, unused in this plugin  
 
-**TODO:** *Show how this plugin can be configured. Mention files that can be customised.*
+**TODO:** *Change the heading to match your plugin. Show how this plugin can be configured.*
 
 ## Example
 
