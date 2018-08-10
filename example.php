@@ -5,7 +5,7 @@
 
 class YellowExample
 {
-	const VERSION = "0.7.5";
+	const VERSION = "0.7.6";
 	var $yellow;			//access to API
 	
 	// Handle initialisation
@@ -26,6 +26,23 @@ class YellowExample
 		}
 		return $output;
 	}
+	
+	/* Uncomment if needed
+	// Handle page extra HTML data
+	function onExtra($name)
+	{
+		$output = NULL;
+		if($name == "header")
+		{
+			$output .= "<!-- Additional CSS and JS for your plugin -->\n";
+		}
+		if($name == "footer")
+		{
+			$output = "<!-- It is better to include large JS files after the content -->\n";
+		}
+		return $output;
+	}
+	*/
 }
 
 $yellow->plugins->register("example", "YellowExample", YellowExample::VERSION);
