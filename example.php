@@ -35,5 +35,3 @@ class YellowExample {
         return $output;
     }
 }
-
-$yellow->plugins->register("example", "YellowExample", YellowExample::VERSION);
