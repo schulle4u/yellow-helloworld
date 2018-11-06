@@ -8,13 +8,19 @@ Embed example text.
 
 ## How to install plugin
 
+If your webhost grants shell access, execute the following command as your webserver's user to install the plugin:
+
+`~$ php yellow.php install YellowExample`
+
+To manually install the plugin:
+
 1. [Download and install Datenstrom Yellow](https://github.com/datenstrom/yellow/).
 2. [Download plugin](https://github.com/schulle4u/yellow-plugin-example/archive/master.zip). If you are using Safari, right click and select 'Download file as'.
 3. Copy `master.zip` into your `system/plugins` folder.
 
-To uninstall delete the [plugin files](update.ini).
+To uninstall execute `~$ php yellow.php uninstall YellowExample` or manually delete the [plugin files](update.ini).
 
-**TODO:** *Change the second link to your own repository.*
+**TODO:** *Change the second link to your own repository. Remove shell instructions if your plugin is not part of the feature installation.*
 
 ## How to embed XYZ
 
