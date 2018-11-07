@@ -12,9 +12,9 @@ Embed example text.
 2. [Download plugin](https://github.com/schulle4u/yellow-plugin-example/archive/master.zip). If you are using Safari, right click and select 'Download file as'.
 3. Copy `master.zip` into your `system/plugins` folder.
 
-To uninstall delete the [plugin files](update.ini). This plugin also  can be added as website feature at the [command line](https://github.com/datenstrom/yellow-plugins/tree/master/command).
+To uninstall delete the [plugin files](update.ini).
 
-**TODO:** *Change the second link to your own repository. Remove command line instructions if your plugin is not part of the feature installation.*
+**TODO:** *Change the second link to your own repository. Feel free to add instructions for command line users if your plugin has been released as website feature in the [Yellow plugins repository](https://github.com/datenstrom/yellow-plugins).*
 
 ## How to embed XYZ
 
