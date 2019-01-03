@@ -12,10 +12,10 @@ class YellowExample {
         $this->yellow = $yellow;
     }
     
-    // Handle page content parsing of custom block
-    public function onParseContentBlock($page, $name, $text, $shortcut) {
+    // Handle page content of shortcut
+    public function onParseContentShortcut($page, $name, $text, $type) {
         $output = null;
-        if ($name=="example" && $shortcut) {
+        if ($name=="example" && ($type=="block" || $type=="inline")) {
             $output = "<div class=\"".htmlspecialchars($name)."\">";
             $output .= "Add more HTML code here";
             $output .= "</div>";
