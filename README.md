@@ -1,4 +1,4 @@
-Example 0.7.6
+Example 0.8.2
 =============
 Embed example text. 
 
@@ -14,7 +14,7 @@ Embed example text.
 
 To uninstall delete the [extension files](update.ini).
 
-**TODO:** *Change the second link to your own repository. Feel free to add instructions for command line users if your plugin has been released as website feature in the [Yellow plugins repository](https://github.com/datenstrom/yellow-plugins).*
+**TODO:** *Change the second link to your own repository. Feel free to add instructions for command line users if your extension has been released as website feature in the [Yellow extensions repository](https://github.com/datenstrom/yellow-extensions).*
 
 ## How to embed XYZ
 
