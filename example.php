@@ -24,8 +24,8 @@ class YellowExample {
         return $output;
     }
     
-    // Handle page extra HTML data
-    public function onExtra($name) {
+    // Handle page extra data
+    public function onParsePageExtra($page, $name) {
         $output = null;
         if ($name == "header") {
             $output = "<!-- Include additional CSS and JavaScript here -->\n";
