@@ -1,8 +1,8 @@
 Example 0.8.2
 =============
-Embed example text. 
+Example extension for developers.
 
-**TODO:** *This is an example extension. It provides a `README.md` with documentation, an `example.php` with simple code and an `update.ini` with installation information. Start the documentation with the name of your extension, followed by one line of description. Put more text into the sections below. Add a screenshot whenever possible.* 
+**TODO:** *Use this extension to make a new feature. It provides an `example.php` with simple code, an `extension.ini` with installation information and a `README.md` with documentation. Start your documentation with the name of your extension, followed by one line of description. Put more text into the sections below. Add a screenshot whenever possible.* 
 
 <p align="center"><img src="example-screenshot.png?raw=true" alt="Screenshot"></p>
 
@@ -14,7 +14,7 @@ Embed example text.
 
 To uninstall delete the [extension files](extension.ini).
 
-**TODO:** *Change the second link to your own repository. Feel free to add instructions for command line users if your extension has been released as website feature in the [Yellow extensions repository](https://github.com/datenstrom/yellow-extensions).*
+**TODO:** *Change the second link to your own repository.*
 
 ## How to embed XYZ
 
@@ -22,10 +22,10 @@ Create an `[example]` shortcut.
 
 The following arguments are available, all but the first argument are optional:
 
-`something` = example argument, unused in this extension    
-`style` = example style, unused in this extension
+`Something` = example argument, unused in this extension    
+`Style` = example style, unused in this extension
 
-**TODO:** *Change the heading to match your extension. Describe what the user can do with your extension. Most of the time you can describe everything in one section. However if a extension has lot of functionality you can also break it up into multiple sections. Mention third party libraries and web services that you use.*
+**TODO:** *Change the heading to match your extension. Describe what the user can do with your extension. Most of the time you can describe everything in one section. However if your extension has lot of functionality you can also break it up into multiple sections. Mention third party libraries and web services that you use.*
 
 ## How to configure XYZ
 
@@ -34,7 +34,7 @@ The following settings can be configured in file `system/settings/system.ini`:
 `ExampleSomething` = example configuration, unused in this extension  
 `ExampleStyle` = example style, unused in this extension  
 
-**TODO:** *Change the heading to match your extension. Show how this extension can be configured.*
+**TODO:** *Change the heading to match your extension. Show how your extension can be configured.*
 
 ## Example
 
@@ -44,10 +44,10 @@ Embedding an example text:
     [example abc]
     [example abc 123]
 
-**TODO:** *Show how this extension can be used. Give examples that can be copy/pasted.*
+**TODO:** *Show how your extension can be used. Give examples that can be copy/pasted.*
 
 ## Developer
 
 Example Name.
 
-**TODO:** *Add your name. Give credits to other people whenever possible.*
+**TODO:** *Add your name. Give credits to other people whenever possible. Make sure everything works in the [developer kit](https://github.com/datenstrom/yellow-developers).*
