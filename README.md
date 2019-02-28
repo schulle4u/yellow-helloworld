@@ -9,10 +9,10 @@ Embed example text.
 ## How to install extension
 
 1. [Download and install Datenstrom Yellow](https://github.com/datenstrom/yellow/).
-2. [Download extension](https://github.com/schulle4u/yellow-plugin-example/archive/master.zip). If you are using Safari, right click and select 'Download file as'.
+2. [Download extension](https://github.com/schulle4u/yellow-extension-example/archive/master.zip). If you are using Safari, right click and select 'Download file as'.
 3. Copy `master.zip` into your `system/extensions` folder.
 
-To uninstall delete the [extension files](update.ini).
+To uninstall delete the [extension files](extension.ini).
 
 **TODO:** *Change the second link to your own repository. Feel free to add instructions for command line users if your extension has been released as website feature in the [Yellow extensions repository](https://github.com/datenstrom/yellow-extensions).*
 
