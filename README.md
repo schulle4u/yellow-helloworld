@@ -16,7 +16,7 @@ To uninstall delete the [extension files](extension.ini).
 
 **TODO:** *Change the second link to your own repository.*
 
-## How to embed XYZ
+## How to do something
 
 Create an `[example]` shortcut. 
 
@@ -27,7 +27,7 @@ The following arguments are available, all but the first argument are optional:
 
 **TODO:** *Change the heading to match your extension. Describe what the user can do with your extension. Most of the time you can describe everything in one section. However if your extension has lot of functionality you can also break it up into multiple sections. Mention third party libraries and web services that you use.*
 
-## How to configure XYZ
+## How to configure something
 
 The following settings can be configured in file `system/settings/system.ini`:
 
