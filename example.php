@@ -1,5 +1,5 @@
 <?php
-// Example extension, https://github.com/schulle4u/yellow-plugin-example
+// Example extension, https://github.com/schulle4u/yellow-extension-example
 // Copyright (c) 2018 Example Name
 // This file may be used and distributed under the terms of the public license.
 
