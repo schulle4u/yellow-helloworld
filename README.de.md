@@ -2,14 +2,14 @@ Example 0.8.2
 =============
 Beispielerweiterung für Entwickler.
 
-**TODO:** *Verwende diese Erweiterung zum Erstellen einer neuen Funktion. Sie enthält die Dateien `example.php` mit Beispiel-Code, `extension.ini` für Metadaten sowie `README.md` als Dokumentationsvorlage. Beginne die Dokumentation mit dem Namen deiner Erweiterung, gefolgt von einer einzeiligen Beschreibung. In den unteren Sektionen ist Platz für weiteren Text. Falls möglich, füge ein Bildschirmfoto hinzu.*
+**TODO:** *Verwende diese Erweiterung zum Erstellen einer neuen Funktion. Sie enthält die Dateien `example.php` mit Beispiel-Code, `extension.ini` für Metadaten sowie `README.md` als Dokumentationsvorlage. Beginne die Dokumentation mit dem Namen deiner Erweiterung, gefolgt von einer einzeiligen Beschreibung. In den unteren Sektionen ist Platz für weiteren Text. Falls möglich, füge ein Bildschirmfoto hinzu. Im Sinne einer internationalen Gemeinschaft sollten Optionen, Argumente sowie der Name deiner Erweiterung auf Englisch verfasst werden.*
 
 <p align="center"><img src="example-screenshot.png?raw=true" alt="Screenshot"></p>
 
 ## So wird diese Erweiterung installiert
 
-1. [Lade Datenstrom Yellow herunter und installiere es](https://github.com/datenstrom/yellow/).
-2. [Lade die Erweiterung herunter](https://github.com/schulle4u/yellow-extension-example/archive/master.zip). Falls du Safari verwendest, klicke die Datei mit rechts an und wähle 'Datei speichern unter'.
+1. [Datenstrom Yellow herunterladen und installieren](https://github.com/datenstrom/yellow/).
+2. [Erweiterung herunterladen](https://github.com/schulle4u/yellow-extension-example/archive/master.zip). Falls du Safari verwendest, klicke die Datei mit rechts an und wähle 'Datei speichern unter'.
 3. Kopiere `master.zip` in dein `system/extensions`-Verzeichnis.
 
 Zum Deinstallieren lösche einfach die [Erweiterungsdateien](extension.ini).
@@ -44,7 +44,7 @@ Einbettung eines Beispieltextes:
     [example abc]
     [example abc 123]
 
-**TODO:** *Zeige, wie man deine Erweiterung verwenden kann. Gib einige fertige Beispiele zum Kopieren und Einfügen.*
+**TODO:** *Zeige, wie man deine Erweiterung verwenden kann. Notiere einige fertige Beispiele zum Kopieren und Einfügen.*
 
 ## Entwickler
 
