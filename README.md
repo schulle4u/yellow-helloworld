@@ -2,6 +2,8 @@ Example 0.8.2
 =============
 Example extension for developers.
 
+Display this page in: English | [Deutsch](README.de.md)
+
 **TODO:** *Use this extension to make a new feature. It provides an `example.php` with code, an `extension.ini` with information and a `README.md` with documentation. Start your documentation with the name of your extension, followed by one line of description. Put more text into the sections below. Add a screenshot whenever possible.* 
 
 <p align="center"><img src="example-screenshot.png?raw=true" alt="Screenshot"></p>
