@@ -2,7 +2,7 @@ Example 0.8.2
 =============
 Beispielerweiterung für Entwickler.
 
-Anzeige dieser Seite: [English](README.md) | Deutsch
+Sprache: [English](README.md), Deutsch
 
 **TODO:** *Verwende diese Erweiterung zum Erstellen einer neuen Funktion. Sie enthält die Dateien `example.php` mit Beispiel-Code, `extension.ini` für Metadaten sowie `README.md` als Dokumentationsvorlage. Beginne die Dokumentation mit dem Namen deiner Erweiterung, gefolgt von einer einzeiligen Beschreibung. In den unteren Sektionen ist Platz für weiteren Text. Falls möglich, füge ein Bildschirmfoto hinzu. Im Sinne einer internationalen Gemeinschaft sollten Optionen, Argumente sowie der Name deiner Erweiterung auf Englisch verfasst werden.*
 
