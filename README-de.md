@@ -11,7 +11,7 @@ Sprache: [English](README.md), Deutsch
 ## So wird diese Erweiterung installiert
 
 1. [Datenstrom Yellow herunterladen und installieren](https://github.com/datenstrom/yellow/).
-2. [Erweiterung herunterladen](https://github.com/schulle4u/yellow-extension-example/archive/master.zip). Falls du Safari verwendest, klicke die Datei mit rechts an und wähle 'Datei speichern unter'.
+2. [Erweiterung herunterladen](https://github.com/schulle4u/yellow-extension-example/archive/master.zip). Falls du Safari verwendest, klicke die Datei mit rechts an und wähle 'Verknüpfte Datei laden unter'.
 3. Kopiere `master.zip` in dein `system/extensions`-Verzeichnis.
 
 Zum Deinstallieren lösche einfach die [Erweiterungsdateien](extension.ini).
