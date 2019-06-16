@@ -4,9 +4,9 @@ Beispielerweiterung für Entwickler.
 
 Sprache: [English](README.md), Deutsch
 
-**TODO:** *Verwende diese Erweiterung zum Erstellen einer neuen Funktion. Sie enthält die Dateien `example.php` mit Beispiel-Code, `extension.ini` für Metadaten sowie `README.md` als Dokumentationsvorlage. Beginne die Dokumentation mit dem Namen deiner Erweiterung, gefolgt von einer einzeiligen Beschreibung. In den unteren Sektionen ist Platz für weiteren Text. Falls möglich, füge ein Bildschirmfoto hinzu. Im Sinne einer internationalen Gemeinschaft sollten Optionen, Argumente sowie der Name deiner Erweiterung auf Englisch verfasst werden.*
+**TODO:** *Verwende diese Erweiterung zum Erstellen einer neuen Funktion. Sie enthält die Dateien `example.php` mit Beispiel-Code, `extension.ini` für Metadaten sowie `README.md` als Dokumentationsvorlage. Beginne die Dokumentation mit dem Namen deiner Erweiterung, gefolgt von einer einzeiligen Beschreibung. In den unteren Sektionen ist Platz für weiteren Text. Falls möglich, füge ein Bildschirmfoto hinzu.*
 
-<p align="center"><img src="example-screenshot.png?raw=true" alt="Screenshot"></p>
+<p align="center"><img src="example-screenshot.png?raw=true" alt="Bildschirmfoto"></p>
 
 ## So wird diese Erweiterung installiert
 
@@ -52,4 +52,4 @@ Einbettung eines Beispieltextes:
 
 Beispielname.
 
-**TODO:** *Gib deinen Namen an. Wann immer möglich, erwähne auch andere Entwickler, wenn du Code von ihnen nutzt. Teste danach alles im [Entwickler-Kit](https://github.com/datenstrom/yellow-developers).*
+**TODO:** *Gib deinen Namen an. Wann immer möglich, erwähne auch andere Entwickler. Teste danach alles im [Entwickler-Kit](https://github.com/datenstrom/yellow-developers).*
