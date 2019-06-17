@@ -52,7 +52,7 @@ Example Name.
 
 **TODO:** *Add your name. Give credits to other people whenever possible. Make sure everything works in the [developer kit](https://github.com/datenstrom/yellow-developers).*
 
-<p align="right">
-<a href="README-de.md"><img src="https://raw.githubusercontent.com/datenstrom/yellow-developers/master/media/images/language-de.png" width="20" height="20" style="vertical-align:middle; margin-right:.5em;" alt="Deutsch">Deutsch</a>
-<a href="README.md"><img src="https://raw.githubusercontent.com/datenstrom/yellow-developers/master/media/images/language-en.png" width="20" height="20" style="vertical-align:middle; margin:.5em;" alt="English">English</a>
+<p>
+<a href="README-de.md"><img src="https://raw.githubusercontent.com/datenstrom/yellow-developers/master/media/images/language-de.png" width="15" height="15" alt="Deutsch">&nbsp; Deutsch</a>&nbsp;
+<a href="README.md"><img src="https://raw.githubusercontent.com/datenstrom/yellow-developers/master/media/images/language-en.png" width="15" height="15" alt="English">&nbsp; English</a>&nbsp;
 </p>
