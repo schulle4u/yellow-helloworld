@@ -50,7 +50,7 @@ Embedding an example text:
 
 Example Name.
 
-**TODO:** *Add your name. Give credits to other people whenever possible. Make sure everything works in the [developer kit](https://github.com/datenstrom/yellow-developers).*
+**TODO:** *Add your name. Give credits to other people whenever possible. Test everything in the [developer kit](https://github.com/datenstrom/yellow-developers).*
 
 <p>
 <a href="README-de.md"><img src="https://raw.githubusercontent.com/datenstrom/yellow-developers/master/media/images/language-de.png" width="15" height="15" alt="Deutsch">&nbsp; Deutsch</a>&nbsp;
