@@ -6,19 +6,19 @@ Beispielerweiterung für Entwickler.
 
 <p align="center"><img src="example-screenshot.png?raw=true" alt="Bildschirmfoto"></p>
 
-## So wird diese Erweiterung installiert
+## Wie man diese Erweiterung installiert
 
 1. [Datenstrom Yellow herunterladen und installieren](https://github.com/datenstrom/yellow/).
-2. [Erweiterung herunterladen](https://github.com/schulle4u/yellow-extension-example/archive/master.zip). Falls du Safari verwendest, klicke die Datei mit rechts an und wähle 'Verknüpfte Datei laden unter'.
+2. [Erweiterung herunterladen](https://github.com/schulle4u/yellow-extension-example/archive/master.zip). Falls du Safari verwendest, rechtsklicke und wähle 'Verknüpfte Datei laden unter'.
 3. Kopiere `master.zip` in dein `system/extensions`-Verzeichnis.
 
 Zum Deinstallieren lösche einfach die [Erweiterungsdateien](extension.ini).
 
 **TODO:** *Ändere den zweiten Link, sodass er auf dein eigenes Repository verweist.*
 
-## So wird etwas gemacht
+## Wie wird etwas gemacht
 
-Erstelle einen `[example]`-Shortcut. 
+Erstelle eine `[example]`-Abkürzung. 
 
 Die folgenden Argumente sind verfügbar, mit Ausnahme des ersten Arguments sind alle Angaben optional:
 
@@ -50,7 +50,7 @@ Einbettung eines Beispieltextes:
 
 Beispielname.
 
-**TODO:** *Gib deinen Namen an. Wann immer möglich, erwähne auch andere Entwickler. Teste danach alles im [Entwickler-Kit](https://github.com/datenstrom/yellow-developers).*
+**TODO:** *Gib deinen Namen an. Wann immer möglich, erwähne andere Personen. Teste alles im [Entwickler-Kit](https://github.com/datenstrom/yellow-developers).*
 
 <p>
 <a href="README-de.md"><img src="https://raw.githubusercontent.com/datenstrom/yellow-developers/master/media/images/language-de.png" width="15" height="15" alt="Deutsch">&nbsp; Deutsch</a>&nbsp;
