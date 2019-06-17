@@ -2,8 +2,6 @@ Example 0.8.2
 =============
 Example extension for developers.
 
-Language: English, [Deutsch](README-de.md)
-
 **TODO:** *Use this extension to make a new feature. It provides an `example.php` with code, an `extension.ini` with information and a `README.md` with documentation. Start your documentation with the name of your extension, followed by one line of description. Put more text into the sections below. Add a screenshot whenever possible.* 
 
 <p align="center"><img src="example-screenshot.png?raw=true" alt="Screenshot"></p>
@@ -52,4 +50,9 @@ Embedding an example text:
 
 Example Name.
 
-**TODO:** *Add your name. Give credits to other people whenever possible. Make sure everything works in the [developer kit](https://github.com/datenstrom/yellow-developers).*
+**TODO:** *Add your name. Give credits to other people whenever possible. Test everything in the [developer kit](https://github.com/datenstrom/yellow-developers).*
+
+<p>
+<a href="README-de.md"><img src="https://raw.githubusercontent.com/datenstrom/yellow-developers/master/media/images/language-de.png" width="15" height="15" alt="Deutsch">&nbsp; Deutsch</a>&nbsp;
+<a href="README.md"><img src="https://raw.githubusercontent.com/datenstrom/yellow-developers/master/media/images/language-en.png" width="15" height="15" alt="English">&nbsp; English</a>&nbsp;
+</p>

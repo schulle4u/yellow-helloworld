@@ -2,25 +2,23 @@ Example 0.8.2
 =============
 Beispielerweiterung für Entwickler.
 
-Sprache: [English](README.md), Deutsch
-
 **TODO:** *Verwende diese Erweiterung zum Erstellen einer neuen Funktion. Sie enthält die Dateien `example.php` mit Beispiel-Code, `extension.ini` für Metadaten sowie `README.md` als Dokumentationsvorlage. Beginne die Dokumentation mit dem Namen deiner Erweiterung, gefolgt von einer einzeiligen Beschreibung. In den unteren Sektionen ist Platz für weiteren Text. Falls möglich, füge ein Bildschirmfoto hinzu.*
 
 <p align="center"><img src="example-screenshot.png?raw=true" alt="Bildschirmfoto"></p>
 
-## So wird diese Erweiterung installiert
+## Wie man diese Erweiterung installiert
 
 1. [Datenstrom Yellow herunterladen und installieren](https://github.com/datenstrom/yellow/).
-2. [Erweiterung herunterladen](https://github.com/schulle4u/yellow-extension-example/archive/master.zip). Falls du Safari verwendest, klicke die Datei mit rechts an und wähle 'Verknüpfte Datei laden unter'.
+2. [Erweiterung herunterladen](https://github.com/schulle4u/yellow-extension-example/archive/master.zip). Falls du Safari verwendest, rechtsklicke und wähle 'Verknüpfte Datei herunterladen'.
 3. Kopiere `master.zip` in dein `system/extensions`-Verzeichnis.
 
 Zum Deinstallieren lösche einfach die [Erweiterungsdateien](extension.ini).
 
 **TODO:** *Ändere den zweiten Link, sodass er auf dein eigenes Repository verweist.*
 
-## So wird etwas gemacht
+## Wie wird etwas gemacht
 
-Erstelle einen `[example]`-Shortcut. 
+Erstelle eine `[example]`-Abkürzung. 
 
 Die folgenden Argumente sind verfügbar, mit Ausnahme des ersten Arguments sind alle Angaben optional:
 
@@ -52,4 +50,9 @@ Einbettung eines Beispieltextes:
 
 Beispielname.
 
-**TODO:** *Gib deinen Namen an. Wann immer möglich, erwähne auch andere Entwickler. Teste danach alles im [Entwickler-Kit](https://github.com/datenstrom/yellow-developers).*
+**TODO:** *Gib deinen Namen an. Wann immer möglich, erwähne andere Personen. Teste alles im [Entwickler-Kit](https://github.com/datenstrom/yellow-developers).*
+
+<p>
+<a href="README-de.md"><img src="https://raw.githubusercontent.com/datenstrom/yellow-developers/master/media/images/language-de.png" width="15" height="15" alt="Deutsch">&nbsp; Deutsch</a>&nbsp;
+<a href="README.md"><img src="https://raw.githubusercontent.com/datenstrom/yellow-developers/master/media/images/language-en.png" width="15" height="15" alt="English">&nbsp; English</a>&nbsp;
+</p>
