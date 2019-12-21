@@ -1,4 +1,4 @@
-Example 0.8.2
+Example 0.8.3
 =============
 Beispielerweiterung für Entwickler.
 
@@ -48,9 +48,9 @@ Einbettung eines Beispieltextes:
 
 ## Entwickler
 
-Beispielname.
+Beispielname. [Support finden](https://github.com/schulle4u/yellow-extension-example/issues).
 
-**TODO:** *Gib deinen Namen an. Wann immer möglich, erwähne andere Personen. Teste alles mit der [neuesten Version von Datenstrom Yellow](https://github.com/datenstrom/yellow).*
+**TODO:** *Gib deinen Namen an. Ändere den Link, sodass er auf dein eigens Repository oder deine eigene Support-Webseite verweist. Lies die Dokumentation aus der Sicht des Benutzers durch. Benutzer möchten ein Ziel erreichen und die Dokumentation sollte dabei helfen. Der Schwerpunkt sollte Menschen und ihr Alltag sein. Nicht technische Details.*
 
 <p>
 <a href="README-de.md"><img src="https://raw.githubusercontent.com/datenstrom/yellow-extensions/master/features/help/language-de.png" width="15" height="15" alt="Deutsch">&nbsp; Deutsch</a>&nbsp;
