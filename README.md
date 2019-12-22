@@ -1,4 +1,4 @@
-Example 0.8.2
+Example 0.8.3
 =============
 Example extension for developers.
 
@@ -48,9 +48,9 @@ Embedding an example text:
 
 ## Developer
 
-Example Name.
+Example Name. [Get support](https://github.com/schulle4u/yellow-extension-example/issues).
 
-**TODO:** *Add your name. Give credits to other people whenever possible. Test everything in the [latest version of Datenstrom Yellow](https://github.com/datenstrom/yellow).*
+**TODO:** *Add your name. Change the link to your own repository or website. Review the documentation from the perspective of the user. Users want to reach their goals and the documentation should help do it. The main focus should be on people and their everyday life. Not on technical details.*
 
 <p>
 <a href="README-de.md"><img src="https://raw.githubusercontent.com/datenstrom/yellow-extensions/master/features/help/language-de.png" width="15" height="15" alt="Deutsch">&nbsp; Deutsch</a>&nbsp;
