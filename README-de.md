@@ -4,7 +4,7 @@ Beispielerweiterung für Entwickler.
 
 **TODO:** *Verwende diese Erweiterung zum Erstellen einer neuen Funktion. Sie enthält die Dateien `example.php` mit Beispiel-Code, `extension.ini` für Metadaten sowie `README.md` als Dokumentationsvorlage. Beginne die Dokumentation mit dem Namen deiner Erweiterung, gefolgt von einer einzeiligen Beschreibung. In den unteren Sektionen ist Platz für weiteren Text. Falls möglich, füge ein Bildschirmfoto hinzu.*
 
-<p align="center"><img src="example-screenshot.png?raw=true" alt="Bildschirmfoto"></p>
+<p align="center"><img src="example-screenshot.png?raw=true" width="795" height="836" alt="Bildschirmfoto"></p>
 
 ## Wie man diese Erweiterung installiert
 
