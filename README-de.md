@@ -50,7 +50,7 @@ Einbettung eines Beispieltextes:
 
 Beispielname. [Support finden](https://github.com/schulle4u/yellow-extension-example/issues).
 
-**TODO:** *Gib deinen Namen an. Ändere den Link, sodass er auf dein eigenes Repository oder deine eigene Webseite verweist. Lies die Dokumentation aus der Sicht des Benutzers durch. Benutzer möchten ihre Ziele erreichen und die Dokumentation sollte dabei helfen. Der Schwerpunkt sollte Menschen und ihr Alltag sein, nicht technische Details.*
+**TODO:** *Gib deinen Namen an. Ändere den Link, sodass er auf dein eigenes Repository oder deine eigene Webseite verweist. Lies die Dokumentation aus der Sicht des Benutzers durch. Benutzer möchten ihre Ziele erreichen und die Dokumentation sollte dabei helfen. Der Schwerpunkt sollte Menschen und ihr Alltag sein, nicht technische Details.  [Veröffentliche deine Erweiterung](https://github.com/datenstrom/yellow-extensions/blob/master/features/release/README-de.md) im offiziellen Repository.*
 
 <p>
 <a href="README-de.md"><img src="https://raw.githubusercontent.com/datenstrom/yellow-extensions/master/features/help/language-de.png" width="15" height="15" alt="Deutsch">&nbsp; Deutsch</a>&nbsp;
