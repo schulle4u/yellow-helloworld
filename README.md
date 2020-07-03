@@ -6,16 +6,6 @@ Example extension for developers.
 
 <p align="center"><img src="example-screenshot.png?raw=true" width="795" height="836" alt="Screenshot"></p>
 
-## How to install extension
-
-1. [Download and install Datenstrom Yellow](https://github.com/datenstrom/yellow/).
-2. [Download extension](https://github.com/schulle4u/yellow-extension-example/archive/master.zip). If you are using Safari, right click and select 'Download file as'.
-3. Copy `master.zip` into your `system/extensions` folder.
-
-To uninstall delete the [extension files](extension.ini).
-
-**TODO:** *Change the second link to your own repository.*
-
 ## How to do something
 
 Create an `[example]` shortcut. 
@@ -27,15 +17,6 @@ The following arguments are available, all but the first argument are optional:
 
 **TODO:** *Change the heading to match your extension. Describe what the user can do with your extension. Most of the time you can describe everything in one section. However if your extension has lot of functionality you can also break it down into multiple sections. Mention third party libraries and web services that you use.*
 
-## Settings
-
-The following settings can be configured in file `system/settings/system.ini`:
-
-`ExampleSomething` = example setting, unused in this extension  
-`ExampleStyle` = example style, unused in this extension  
-
-**TODO:** *Show how your extension can be configured. Describe settings and files that the user can adjust.*
-
 ## Examples
 
 Embedding an example text:
@@ -45,6 +26,21 @@ Embedding an example text:
     [example abc 123]
 
 **TODO:** *Show how your extension can be used. Give multiple examples that can be copy/pasted.*
+
+## Settings
+
+The following settings can be configured in file `system/settings/system.ini`:
+
+`ExampleSomething` = example setting, unused in this extension  
+`ExampleStyle` = example style, unused in this extension  
+
+**TODO:** *Show how your extension can be configured. Describe settings and files that the user can adjust.*
+
+## Installation
+
+[Download extension](https://github.com/schulle4u/yellow-extension-example/archive/master.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
+
+**TODO:** *Change the link to your own repository.*
 
 ## Developer
 

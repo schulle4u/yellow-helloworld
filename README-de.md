@@ -6,16 +6,6 @@ Beispielerweiterung für Entwickler.
 
 <p align="center"><img src="example-screenshot.png?raw=true" width="795" height="836" alt="Bildschirmfoto"></p>
 
-## Wie man diese Erweiterung installiert
-
-1. [Datenstrom Yellow herunterladen und installieren](https://github.com/datenstrom/yellow/).
-2. [Erweiterung herunterladen](https://github.com/schulle4u/yellow-extension-example/archive/master.zip). Falls du Safari verwendest, rechtsklicke und wähle 'Verknüpfte Datei laden unter'.
-3. Kopiere `master.zip` in dein `system/extensions`-Verzeichnis.
-
-Zum Deinstallieren lösche einfach die [Erweiterungsdateien](extension.ini).
-
-**TODO:** *Ändere den zweiten Link, sodass er auf dein eigenes Repository verweist.*
-
 ## Wie wird etwas gemacht
 
 Erstelle eine `[example]`-Abkürzung. 
@@ -27,15 +17,6 @@ Die folgenden Argumente sind verfügbar, mit Ausnahme des ersten Arguments sind 
 
 **TODO:** *Ändere die Überschrift entsprechend deiner Erweiterung. Beschreibe, was ein Benutzer damit tun kann. Meistens genügt hierfür eine einzige Sektion, lediglich bei Umfangreichen Erweiterungen empfiehlt sich die Aufteilung in mehrere Sektionen. Erwähne auch die von dir verwendeten Drittanbieter-Dienste und Bibliotheken.*
 
-## Einstellungen
-
-Die folgenden Einstellungen können in der Datei `system/settings/system.ini` vorgenommen werden:
-
-`ExampleSomething` = Beispieleinstellung, wird in dieser Erweiterung nicht verwendet  
-`ExampleStyle` = Beispiel-Stil, wird in dieser Erweiterung nicht verwendet  
-
-**TODO:** *Zeige, wie sich deine Erweiterung konfigurieren lässt. Beschreibe alle Einstellungen und Dateien, in denen der Benutzer Anpassungen vornehmen kann.*
-
 ## Beispiele
 
 Einbettung eines Beispieltextes:
@@ -45,6 +26,21 @@ Einbettung eines Beispieltextes:
     [example abc 123]
 
 **TODO:** *Zeige, wie man deine Erweiterung verwenden kann. Notiere einige fertige Beispiele zum Kopieren und Einfügen.*
+
+## Einstellungen
+
+Die folgenden Einstellungen können in der Datei `system/settings/system.ini` vorgenommen werden:
+
+`ExampleSomething` = Beispieleinstellung, wird in dieser Erweiterung nicht verwendet  
+`ExampleStyle` = Beispiel-Stil, wird in dieser Erweiterung nicht verwendet  
+
+**TODO:** *Zeige, wie sich deine Erweiterung konfigurieren lässt. Beschreibe alle Einstellungen und Dateien, in denen der Benutzer Anpassungen vornehmen kann.*
+
+## Installation
+
+[Erweiterung herunterladen](https://github.com/schulle4u/yellow-extension-example/archive/master.zip) und die Zip-Datei in dein `system/extensions`-Verzeichnis kopieren. Rechtsklick bei Safari.
+
+**TODO:** *Ändere den Link, sodass er auf dein eigenes Repository verweist.*
 
 ## Entwickler
 
