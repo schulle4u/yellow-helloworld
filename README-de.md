@@ -44,7 +44,7 @@ Die folgenden Einstellungen können in der Datei `system/settings/system.ini` vo
 
 ## Entwickler
 
-Beispielname. [Support finden](https://github.com/schulle4u/yellow-extension-example/issues).
+Beispielname. [Hilfe finden](https://github.com/schulle4u/yellow-extension-example/issues).
 
 **TODO:** *Gib deinen Namen an. Ändere den Link, sodass er auf dein eigenes Repository oder deine eigene Webseite verweist. Lies die Dokumentation aus der Sicht des Benutzers durch. Benutzer möchten ihre Ziele erreichen und die Dokumentation sollte dabei helfen. Der Schwerpunkt sollte Menschen und ihr Alltag sein, nicht technische Details.  [Veröffentliche deine Erweiterung](https://github.com/datenstrom/yellow-extensions/blob/master/features/release/README-de.md) im offiziellen Repository.*
 

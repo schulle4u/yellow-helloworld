@@ -44,7 +44,7 @@ The following settings can be configured in file `system/settings/system.ini`:
 
 ## Developer
 
-Example Name. [Get support](https://github.com/schulle4u/yellow-extension-example/issues).
+Example Name. [Get help](https://github.com/schulle4u/yellow-extension-example/issues).
 
 **TODO:** *Add your name. Change the link to your own repository or website. Review the documentation from the perspective of the user. Users want to reach their goals and the documentation should help do it. The main focus should be on people and their everyday life, not on technical details. [Publish your extension](https://github.com/datenstrom/yellow-extensions/tree/master/features/release) in the official repository.*
 
