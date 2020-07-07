@@ -15,7 +15,7 @@ The following arguments are available, all but the first argument are optional:
 `Something` = example argument, unused in this extension    
 `Style` = example style, unused in this extension
 
-**TODO:** *Change the heading to match your extension. Describe what the user can do with your extension. Most of the time you can describe everything in one section. However if your extension has lot of functionality you can also break it down into multiple sections. Mention third party libraries and web services that you use.*
+**TODO:** *Change the heading to match your extension. Describe what the user can do with your extension. Most of the time you can describe everything in one section. However if your extension has lot of functionality you can also break it down into multiple sections.*
 
 ## Examples
 
@@ -40,7 +40,7 @@ The following settings can be configured in file `system/settings/system.ini`:
 
 [Download extension](https://github.com/schulle4u/yellow-extension-example/archive/master.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
 
-**TODO:** *Change the link to your own repository.*
+**TODO:** *Change the link to your own repository. Mention third party libraries and web services that you use.*
 
 ## Developer
 

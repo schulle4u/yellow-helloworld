@@ -15,7 +15,7 @@ Die folgenden Argumente sind verfügbar, mit Ausnahme des ersten Arguments sind 
 `Something` = Beispielargument, wird in dieser Erweiterung nicht verwendet    
 `Style` = Beispiel-Stil, wird in dieser Erweiterung nicht verwendet
 
-**TODO:** *Ändere die Überschrift entsprechend deiner Erweiterung. Beschreibe, was ein Benutzer damit tun kann. Meistens genügt hierfür eine einzige Sektion, lediglich bei Umfangreichen Erweiterungen empfiehlt sich die Aufteilung in mehrere Sektionen. Erwähne auch die von dir verwendeten Drittanbieter-Dienste und Bibliotheken.*
+**TODO:** *Ändere die Überschrift entsprechend deiner Erweiterung. Beschreibe, was ein Benutzer damit tun kann. Meistens genügt hierfür eine einzige Sektion, lediglich bei Umfangreichen Erweiterungen empfiehlt sich die Aufteilung in mehrere Sektionen.*
 
 ## Beispiele
 
@@ -40,7 +40,7 @@ Die folgenden Einstellungen können in der Datei `system/settings/system.ini` vo
 
 [Erweiterung herunterladen](https://github.com/schulle4u/yellow-extension-example/archive/master.zip) und die Zip-Datei in dein `system/extensions`-Verzeichnis kopieren. Rechtsklick bei Safari.
 
-**TODO:** *Ändere den Link, sodass er auf dein eigenes Repository verweist.*
+**TODO:** *Ändere den Link, sodass er auf dein eigenes Repository verweist. Erwähne auch die von dir verwendeten Drittanbieter-Dienste und Bibliotheken.*
 
 ## Entwickler
 
