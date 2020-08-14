@@ -1,0 +1,10 @@
+# Helloworld extension, https://github.com/schulle4u/yellow-extension-helloworld
+
+Language: en
+HelloworldDescription: Example feature for developers.
+
+Language: de
+HelloworldDescription: Beispielfunktion für Entwickler.
+
+Language: fr
+HelloworldDescription: Exemple de fonctionnalité pour les développeurs.
