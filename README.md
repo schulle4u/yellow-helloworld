@@ -45,8 +45,8 @@ The following settings can be configured in file `system/settings/system.ini`:
 
 ## Developer
 
-Example. [Get help](https://github.com/schulle4u/yellow-extension-helloworld/issues).
+**TODO:** *Make your own extension based on this example. Have a look inside your `system/extensions` folder, here are all extension files. You can edit the source code in `helloworld.php`, `helloworld.js`, `helloworld.css`. You can edit the language settings in `helloworld.txt`, which extends existing language settings.*
 
-Use this extension to make a new feature. Have a look inside your `system/extensions` folder, here are all extension files. You can edit the source code in `helloworld.php`, `helloworld.js`, `helloworld.css`. You can edit the language settings in `helloworld.txt`. Every repository has a file called `extension.ini` with extension settings.
+Example. [Get help](https://datenstrom.se/yellow/help/).
 
-**TODO:** *Change the link to your own repository. Review your extension from the perspective of the user. Users want to reach their goals and the documentation should help them do it. The main focus should be on people and their everyday life. Not on technical details. [Learn more about publishing extensions](https://github.com/datenstrom/yellow-extensions/tree/master/source/publish).*
+**TODO:** *Change the link to your own repository. Review your documentation from the perspective of the user. Users want to reach their goals and the documentation should help them do it. The main focus should be on people and their everyday life. Not on technical details. [Learn more about publishing extensions](https://github.com/datenstrom/yellow-extensions/tree/master/source/publish).*
