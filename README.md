@@ -30,7 +30,7 @@ Adding animated text inside a list:
 
 ## Settings
 
-The following settings can be configured in file `system/settings/system.ini`:
+The following settings can be configured in file `system/extensions/yellow-system.ini`:
 
 `HelloworldMessage` = default text message  
 `HelloworldSpeed` = cursor speed in ms  
