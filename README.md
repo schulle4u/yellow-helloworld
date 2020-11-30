@@ -45,7 +45,7 @@ The following settings can be configured in file `system/extensions/yellow-syste
 
 ## Developer
 
-**TODO:** *Make your own extension based on this example. Have a look inside your `system/extensions` folder. Edit files that start with `helloworld`. You can edit the language settings in file `helloworld.txt`, which extends the existing language settings. You can put additional files into your `system/layouts` folder and `system/themes` folder. [Learn more about the API for developers](https://datenstrom.se/yellow/help/api-for-developers).*
+**TODO:** *Make your own extension based on this example. Have a look inside your `system/extensions` folder. Edit files that start with `helloworld`. You can edit the language settings in file `helloworld.txt`. You can put additional files into your `system/layouts` folder and `system/themes` folder. [Learn more about the API for developers](https://datenstrom.se/yellow/help/api-for-developers).*
 
 Example. [Get help](https://datenstrom.se/yellow/help/).
 
