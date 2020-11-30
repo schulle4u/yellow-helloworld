@@ -45,8 +45,8 @@ The following settings can be configured in file `system/extensions/yellow-syste
 
 ## Developer
 
-**TODO:** *Make your own extension based on this example. Have a look inside your `system/extensions` folder, here are all extension files. You can edit the source code in `helloworld.php`, `helloworld.js`, `helloworld.css`. You can edit the language settings in `helloworld.txt`, which extends existing language settings.*
+**TODO:** *Make your own extension based on this example. Have a look inside your `system/extensions` folder, here are important extension files. You can edit the language settings in `helloworld.txt`, which extends existing language settings. You can put additional files into your `system/layouts` and `system/themes` folder. [Learn more about the API for developers](https://datenstrom.se/yellow/help/api-for-developers).*
 
 Example. [Get help](https://datenstrom.se/yellow/help/).
 
-**TODO:** *Change the link to your own repository. Review your documentation from the perspective of the user. Users want to reach their goals and the documentation should help them do it. The main focus should be on people and their everyday life. Not on technical details. [Learn more about publishing extensions](https://github.com/datenstrom/yellow-extensions/tree/master/source/publish).*
+**TODO:** *Change the link to your own repository. Add the topic `datenstrom-yellow` to your repository. Review your documentation from the perspective of the user. Users want to reach their goals and the documentation should help them do it. The main focus should be on people and their everyday life. Not on technical details. [Learn more about publishing extensions](https://github.com/datenstrom/yellow-extensions/tree/master/source/publish).*
