@@ -45,4 +45,4 @@ var initHelloworldFromDOM = function() {
     if (elements.length) animateElement();
 };
 
-window.addEventListener("load", initHelloworldFromDOM, false);
+window.addEventListener("DOMContentLoaded", initHelloworldFromDOM, false);

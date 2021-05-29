@@ -2,7 +2,7 @@
 // Helloworld extension, https://github.com/schulle4u/yellow-extension-helloworld
 
 class YellowHelloworld {
-    const VERSION = "0.8.15";
+    const VERSION = "0.8.16";
     public $yellow;         // access to API
     
     // Handle initialisation
