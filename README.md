@@ -26,7 +26,7 @@ Adding animated text inside a list:
     
     * [helloworld - Fun to use]
     * [helloworld - Just files and folders]
-    * [helloworld - Installed in a few seconds]
+    * [helloworld - Installed in a few minutes]
 
 **TODO:** *Show how your extension can be used. Give multiple examples that can be copy/pasted.*
 
