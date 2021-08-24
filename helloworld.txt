@@ -1,10 +1,10 @@
 # Helloworld extension, https://github.com/schulle4u/yellow-extension-helloworld
 
 Language: en
-HelloworldDescription: Example feature for developers.
+HelloworldDescription: Example feature for Datenstrom Yellow.
 
 Language: de
-HelloworldDescription: Beispielfunktion für Entwickler.
+HelloworldDescription: Beispielfunktion für Datenstrom Yellow.
 
 Language: fr
-HelloworldDescription: Exemple de fonctionnalité pour les développeurs.
+HelloworldDescription: Exemple de fonctionnalité pour Datenstrom Yellow.
