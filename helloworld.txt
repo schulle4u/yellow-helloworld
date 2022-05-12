@@ -6,5 +6,5 @@ HelloworldDescription: Example feature for Datenstrom Yellow.
 Language: de
 HelloworldDescription: Beispielfunktion für Datenstrom Yellow.
 
-Language: fr
-HelloworldDescription: Exemple de fonctionnalité pour Datenstrom Yellow.
+Language: sv
+HelloworldDescription: Exempel-funktion för Datenstrom Yellow.
