@@ -4,7 +4,7 @@ Example feature for Datenstrom Yellow.
 
 <p align="center"><img src="helloworld-screenshot.png?raw=true" width="795" height="836" alt="Screenshot"></p>
 
-**TODO:** *Make your own feature based on this example. Have a look inside your `system/extensions` folder. Edit files that start with `helloworld`. You can edit the language settings in file `helloworld.txt`. You can put additional files into your `system/layouts` folder and `system/themes` folder. [Learn more about the API](https://datenstrom.se/yellow/help/api-for-developers).*
+**TODO:** *Make your own extension. Have a look inside your `system/extensions` folder. Edit files that start with `helloworld`. You can edit the language settings in file `helloworld.txt`. You can put additional files into your `system/layouts` folder and `system/themes` folder. [Learn more about the API](https://datenstrom.se/yellow/help/api-for-developers).*
 
 ## How to add animated text
 
@@ -49,4 +49,4 @@ The following settings can be configured in file `system/extensions/yellow-syste
 
 Example. [Get help](https://datenstrom.se/yellow/help/).
 
-**TODO:** *Change the link to your own repository. Review your documentation from the perspective of the user. Help users to reach their goals. The main focus should be on people and their everyday life. Not on technical details. [Learn more about publishing extensions](https://github.com/datenstrom/yellow-extensions/tree/master/source/publish).*
+**TODO:** *Change the link to your own repository. Review your documentation from the perspective of the user. Help users to reach their goals. The main focus should be on people and their everyday life. Not on technical details. [Learn more about making and publishing extensions](https://github.com/datenstrom/yellow-extensions/tree/master/source/publish).*
