@@ -2,7 +2,7 @@
 
 Example feature for Datenstrom Yellow.
 
-<p align="center"><img src="helloworld-screenshot.png?raw=true" width="795" height="836" alt="Screenshot"></p>
+<p align="center"><img src="helloworld-screenshot.png?raw=true" alt="Screenshot"></p>
 
 **TODO:** *Make your own extension. Have a look inside your `system/extensions` folder. Edit files that start with `helloworld`. You can edit the language settings in file `helloworld.txt`. You can put additional files into your `system/layouts` folder and `system/themes` folder. [Learn more about the API](https://datenstrom.se/yellow/help/api-for-developers).*
 
