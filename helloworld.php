@@ -1,5 +1,5 @@
 <?php
-// Helloworld extension, https://github.com/schulle4u/yellow-extension-helloworld
+// Helloworld extension, https://github.com/schulle4u/yellow-helloworld
 
 class YellowHelloworld {
     const VERSION = "0.8.15";

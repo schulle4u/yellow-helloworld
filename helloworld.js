@@ -1,4 +1,4 @@
-// Helloworld extension, https://github.com/schulle4u/yellow-extension-helloworld
+// Helloworld extension, https://github.com/schulle4u/yellow-helloworld
 
 var initHelloworldFromDOM = function() {
     
