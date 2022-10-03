@@ -47,6 +47,6 @@ The following settings can be configured in file `system/extensions/yellow-syste
 
 ## Developer
 
-Example. [Get help](https://datenstrom.se/yellow/help/).
+Steffen Schultz. [Get help](https://github.com/schulle4u/yellow-helloworld/issues).
 
 **TODO:** *Change the link to your own repository. Review your documentation from the perspective of the user. Help users to reach their goals. The main focus should be on people and their everyday life. Not on technical details. [Learn more about making and publishing extensions](https://github.com/annaesvensson/yellow-publish).*
