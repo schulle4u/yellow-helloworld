@@ -41,7 +41,7 @@ The following settings can be configured in file `system/extensions/yellow-syste
 
 ## Installation
 
-[Download extension](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/helloworld.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
+[Download extension](https://github.com/schulle4u/yellow-helloworld/archive/main.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
 
 **TODO:** *Change the link to your own repository. Mention third party libraries and web services that you use.*
 
