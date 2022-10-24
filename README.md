@@ -47,4 +47,4 @@ The following settings can be configured in file `system/extensions/yellow-syste
 
 Steffen Schultz. [Get help](https://datenstrom.se/yellow/help/).
 
-**TODO:** *Review your extension from the perspective of the user. Help users to reach their goals. Think about how to make life easier, focus on people and their everyday life. Not on technical details. [Learn more about making and publishing extensions](https://github.com/annaesvensson/yellow-publish).*
+**TODO:** *Name the responsible developer(s). Review your extension from the perspective of the user. Imagine what the user wants to do and think about how to make his/her life easier. Focus on people and their everyday life. Not on technical details. [Learn more about making and publishing extensions](https://github.com/annaesvensson/yellow-publish).*
