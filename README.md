@@ -39,9 +39,9 @@ The following settings can be configured in file `system/extensions/yellow-syste
 
 ## Installation
 
-[Download extension](https://github.com/schulle4u/yellow-helloworld/archive/main.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
+[Download extension](https://github.com/schulle4u/yellow-helloworld/archive/main.zip) and copy ZIP file into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
-**TODO:** *Change the link to your own repository. Mention third party libraries and web services that you use.*
+**TODO:** *Change the link to your own repository. Mention libraries that you include and services that you use.*
 
 ## Developer
 
