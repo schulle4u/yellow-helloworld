@@ -37,11 +37,17 @@ The following settings can be configured in file `system/extensions/yellow-syste
 
 **TODO:** *Show how your extension can be configured. Describe settings and files that can be adjusted.*
 
+## Acknowledgments
+
+This extension includes feedback by Anna, Giovanni, Mark and Steffen. Thanks for the great work.
+
+**TODO:** *Mention libraries and services that you include. Give them the recognition they deserve.*
+
 ## Installation
 
 [Download extension](https://github.com/schulle4u/yellow-helloworld/archive/main.zip) and copy ZIP file into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
-**TODO:** *Change the link to your own repository. Mention libraries that you include and services that you use.*
+**TODO:** *Change the download link to your own repository.*
 
 ## Developer
 
