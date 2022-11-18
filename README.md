@@ -37,7 +37,7 @@ The following settings can be configured in file `system/extensions/yellow-syste
 
 **TODO:** *Show how your extension can be configured. Describe settings and files that can be adjusted.*
 
-## Acknowledgments
+## Acknowledgements
 
 This extension includes feedback by Anna, Giovanni, Mark and Steffen. Thank you for the good work.
 
