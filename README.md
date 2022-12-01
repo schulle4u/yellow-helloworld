@@ -39,9 +39,9 @@ The following settings can be configured in file `system/extensions/yellow-syste
 
 ## Acknowledgements
 
-This extension includes feedback by Anna, Giovanni, Mark and Steffen. Thank you for the good work.
+This extension includes feedback by Anna Svensson, Giovanni Salmeri and Steffen Schultz. Thank you for the good work.
 
-**TODO:** *Mention libraries and services that you include. Give them the recognition they deserve.*
+**TODO:** *Mention libraries, people and services. Give them the recognition they deserve.*
 
 ## Installation
 
