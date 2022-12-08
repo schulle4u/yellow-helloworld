@@ -10,21 +10,21 @@ Example feature for Datenstrom Yellow.
 
 **TODO:** *Change the download link to your repository. Test your extension in a brand new installation.*
 
-## How to add animated text
+## How to make animated text
 
 Create a `[helloworld]` shortcut. 
 
-**TODO:** *Describe how your extension can be used. Write multiple howto sections, if necessary.*
+**TODO:** *Explain how your extension can be used. Write multiple howto sections, if necessary.*
 
 ## Examples
 
-Adding animated text:
+Making animated text:
 
     [helloworld]
     [helloworld - printf("Hello World\n");]
     [helloworld - alert("Hello World");]  
 
-Adding animated text inside a list:
+Making animated text inside a list:
 
     Datenstrom Yellow is for people who make small websites.
     
