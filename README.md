@@ -4,7 +4,7 @@ Example feature for Datenstrom Yellow.
 
 <p align="center"><img src="helloworld-screenshot.png?raw=true" alt="Screenshot"></p>
 
-## How to install a feature
+## How to install an extension
 
 [Download ZIP file](https://github.com/schulle4u/yellow-helloworld/archive/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
