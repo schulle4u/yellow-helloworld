@@ -4,21 +4,27 @@ Example feature for Datenstrom Yellow.
 
 <p align="center"><img src="helloworld-screenshot.png?raw=true" alt="Screenshot"></p>
 
-## How to add animated text
+## How to install an extension
+
+[Download ZIP file](https://github.com/schulle4u/yellow-helloworld/archive/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
+
+**TODO:** *Change the download link to your repository. Test your extension in a brand new installation.*
+
+## How to make animated text
 
 Create a `[helloworld]` shortcut. 
 
-**TODO:** *Describe how your extension can be used. Write multiple howto sections, if necessary.*
+**TODO:** *Explain how your extension can be used. Write multiple howto sections, if necessary.*
 
 ## Examples
 
-Adding animated text:
+Making animated text:
 
     [helloworld]
     [helloworld - printf("Hello World\n");]
     [helloworld - alert("Hello World");]  
 
-Adding animated text inside a list:
+Making animated text inside a list:
 
     Datenstrom Yellow is for people who make small websites.
     
@@ -41,16 +47,10 @@ The following settings can be configured in file `system/extensions/yellow-syste
 
 This extension includes feedback by Anna Svensson, Giovanni Salmeri and Steffen Schultz. Thank you for the good work.
 
-**TODO:** *Mention libraries, people and services. Give them the recognition they deserve.*
-
-## Installation
-
-[Download extension](https://github.com/schulle4u/yellow-helloworld/archive/main.zip) and copy ZIP file into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
-
-**TODO:** *Change the download link to your own repository.*
+**TODO:** *Mention other people, libraries and services. Give them the recognition they deserve.*
 
 ## Developer
 
 Steffen Schultz. [Get help](https://datenstrom.se/yellow/help/).
 
-**TODO:** *Name the responsible developer(s). Review your extension from the perspective of the user. Imagine what the user wants to do and think about how to make their life easier. Focus on people and their everyday life. Not on technical details. [Learn more about making and publishing extensions](https://github.com/annaesvensson/yellow-publish).*
+**TODO:** *Name the responsible developer(s). Review your extension from the perspective of the user. Imagine what the user wants to do and what would make life easier. Focus on people and their everyday lives. Not on technical details. [Learn more about making and publishing extensions](https://github.com/annaesvensson/yellow-publish).*
