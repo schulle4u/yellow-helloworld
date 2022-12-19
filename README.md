@@ -1,6 +1,6 @@
 # Helloworld 0.8.15
 
-Example feature for Datenstrom Yellow.
+Make animated text.
 
 <p align="center"><img src="helloworld-screenshot.png?raw=true" alt="Screenshot"></p>
 
