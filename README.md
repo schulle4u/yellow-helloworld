@@ -53,4 +53,4 @@ This extension includes feedback by Anna Svensson, Giovanni Salmeri and Steffen 
 
 Steffen Schultz. [Get help](https://datenstrom.se/yellow/help/).
 
-**TODO:** *Name the responsible developer(s). Review your extension from the perspective of the user. Imagine what the user wants to do and what would make life easier. Focus on people and their everyday lives. Not on technical details. [Learn more about making and publishing extensions](https://github.com/annaesvensson/yellow-publish).*
+**TODO:** *Name the responsible developer(s). Review your extension from the perspective of the user. Imagine what the user wants to do and what would make life easier. Focus on people and their everyday lives. Not on technical details and lots of features. [Learn more about making and publishing extensions](https://github.com/annaesvensson/yellow-publish).*
