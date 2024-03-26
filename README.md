@@ -1,6 +1,6 @@
 # Helloworld 0.8.15
 
-Make animated text.
+Experimental extension for Datenstrom Yellow developers.
 
 <p align="center"><img src="SCREENSHOT.png" alt="Screenshot"></p>
 
