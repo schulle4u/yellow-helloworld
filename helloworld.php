@@ -12,8 +12,8 @@ class YellowHelloworld {
         $this->yellow->system->setDefault("helloworldSpeed", "100");
     }
     
-    // Handle page content of shortcut
-    public function onParseContentShortcut($page, $name, $text, $type) {
+    // Handle page content element
+    public function onParseContentElement($page, $name, $text, $attributes, $type) {
         $output = null;
         if ($name=="helloworld" && ($type=="block" || $type=="inline")) {
             $message = $this->yellow->system->get("helloworldMessage");
